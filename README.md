@@ -43,7 +43,7 @@ lib/
 
 - Splash screen com navegação para a Home
 - Home com saudação, busca (visual, sem lógica ainda), categorias e lista de restaurantes bem avaliados
-- Navegação por categoria — cada categoria mostra os restaurantes que a servem
+- Navegação por categoria: cada categoria mostra os restaurantes que a servem
 - Tela de restaurante com cardápio separado em **pratos** e **bebidas**
 - Adicionar itens à sacola (`BagProvider`)
 
